@@ -1,15 +1,18 @@
-
-	{background:gray;
-	color: green;}
-
-
-
-
-
+body{
+	background:silver;
+	color: darkgreen;
+}
 img {
-	width:300;}
+	width:300;
+}
 
 h1{
 	font:bolder;
 	}
 
+.card {
+	margin-top: 20px;
+}
+.top-image{
+	width: 100%;
+}
